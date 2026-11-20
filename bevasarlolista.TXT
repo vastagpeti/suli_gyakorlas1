@@ -6,3 +6,5 @@ psvita
 gta6
 ps5
 xbox
+ps5
+xbox
